@@ -1,0 +1,14 @@
+Jeremiah Pino and Connor Dye
+
+To compile and run our program:
+    1.) Run source auth.jdbc.TEMPLATE
+    2.) Compile java file: javac InnReservations.java 
+    3.) Run java file: java InnReservations.java (number for functional requirement) 
+        - number corresponds to functional requirement
+        - eg. java InnReservations.java 1 for functional requirement one
+
+Database Used
+    Username: jpino01
+
+Work Log
+    Connor and I both worked together on this project and all work was evenly distributed between us. We pair-programmed together which helped both us catch bugs or errors in our code. In the end this helped speed up development of this project. 
